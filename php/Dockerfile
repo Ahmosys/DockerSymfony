@@ -6,7 +6,7 @@ RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
 
 # Update and Dependencies
 RUN apt-get update \
-    && apt-get install -y --no-install-recommends locales apt-utils git libicu-dev g++ libpng-dev libxml2-dev libzip-dev libonig-dev libxslt-dev npm wget;
+    && apt-get install -y --no-install-recommends locales apt-utils git libicu-dev g++ libpng-dev libxml2-dev libzip-dev libonig-dev libxslt-dev npm;
 
 # NPM
 RUN npm install npm@latest -g && \
