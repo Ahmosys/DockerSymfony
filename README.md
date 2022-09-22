@@ -1,4 +1,4 @@
-# Docker Symfony
+# DockerSymfony
 
 🐋 This repository is made to contain all the Docker configuration files in order to have an dev environment under Symfony 6.x ready to be used.
 
