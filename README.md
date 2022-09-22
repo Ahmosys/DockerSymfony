@@ -37,6 +37,12 @@ When you are in the container enter the command:
   $ cd your_project_folder/
 ```
 And that's it! You can use the ```composer```, ```npm```, and ```symfony``` commands :)
+
+## Feedback
+
+If you have any ideas for improvement don't hesitate to open a pull request! It's always a pleasure :)
+
+
 ## Authors
 
 - [@Ahmosys](https://www.github.com/Ahmosys)
