@@ -50,5 +50,5 @@ If you have any ideas for improvement don't hesitate to open a pull request! It'
 
 ## License
 
-You are free to use the code in this repository under the terms of the [0BSD](https://github.com/Ahmosys/DockerSymfony/blob/main/LICENSE).
+You are free to use the code in this repository under the terms of the [MIT](https://github.com/Ahmosys/DockerSymfony/blob/main/LICENSE).
 
