@@ -5,7 +5,7 @@
 
 ## Installation
 
-First, clone the repository into your project folder:
+First, clone the repository:
 
 ```bash
   $ git clone https://github.com/Ahmosys/DockerSymfony.git
